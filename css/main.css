@@ -1,0 +1,6 @@
+span.vertbar {
+    display:block;}
+    
+@media (max-width: 768px) {
+    span.vertbar {
+    display: none;}}
